@@ -1,5 +1,8 @@
 # Owl-E-Journaling-App-using-Llama-3.2-model
 Description: AI-assisted journaling app using LLaMA 3.2, Unsloth, and Flutter with privacy-first design.
+Link for the Journaling APP
+https://drive.google.com/file/d/1gz2orEP-jXUX-Vh5_OugMfx9gEXry5s8/view?usp=sharing
+
 DhiWise is used as UI interface so no use of flutter was required and coversion of Figma to Flutter was also done by DhiWise.
 
 Owl-E-Journaling-App/
